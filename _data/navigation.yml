@@ -1,28 +1,15 @@
-# main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#about-me"          # you already have <span id='about-me'></span>
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"              # matches the auto-generated anchor for "## News"
 
   - title: "Publications"
-    url: "/#-publications"
-
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-
-  # - title: "Educations"
-  #   url: "/#-educations"
-
-  # - title: "Invited Talks"
-  # #   url: "/#-invited-talks"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
+    url: "/#publications"      # matches "## Publications"
 
   - title: "Services"
-    url: "/#-Services"
+    url: "/#services"          # matches "## Services"
 
   - title: "Teaching"
-    url: "/#-Teaching"
+    url: "/#teaching"          # matches "## Teaching"
