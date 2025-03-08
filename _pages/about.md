@@ -33,9 +33,15 @@ and optimization. Currently, I work on <strong>Reinforcement Learning</strong> a
 Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 
 
+<span class="anchor" id="news"></span>
 
 ## News
 - *2025.02*: 1 paper was accepted by TMLR.  
+
+
+
+
+<span class="anchor" id="publications"></span>
 
 ## Publications
 
@@ -58,10 +64,12 @@ Email: muheng [DOT] li [AT] mail [DOT] utoronto [DOT] ca
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<span class="anchor" id="services"></span>
 
 ## Services
 - Conference Reviewer: UAI(2024)
 
+<span class="anchor" id="teaching"></span>
 
 ## Teaching
 - STA255:Statistical Theory(Winter 2025), Tutorial Teaching Assistant.
