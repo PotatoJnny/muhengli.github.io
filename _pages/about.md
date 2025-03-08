@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi! I am a first-year Ph.D. student in Statistics at the University of Toronto. I am very fortunate to be advised by 
-<a href="https://mouwenlong.github.io/index.html" target="_blank">Prof. Wenlong Mou</a> 
+<a href='https://mouwenlong.github.io/index.html' target="_blank">Prof. Wenlong Mou</a> 
 and 
-<a href="https://bingx1990.github.io/" target="_blank">Prof. Xin Bing</a>. 
+<a href='https://bingx1990.github.io/' target="_blank">Prof. Xin Bing</a>. 
 I am also affiliated with the 
-<a href="https://vectorinstitute.ai/" target="_blank">Vector Institute</a>. 
+<a href='https://vectorinstitute.ai/' target="_blank">Vector Institute</a>. 
 Prior to my Ph.D. study, I received B.S. in Statistics from Nanjing University in 2024.
 
 
