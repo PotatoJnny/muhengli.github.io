@@ -28,16 +28,15 @@ My research primarily focuses on the intersection between machine learning theor
 
 
 
-# News
+## News
 - *2025.02*: 1 paper was accepted by TMLR.  
 
-# 📝 Publications 
+## Publications
 
-
-[Reheated Gradient-based Discrete Sampling for Combinatorial Optimization](https://arxiv.org/abs/2503.04047)
-
-**Muheng Li**, Ruqi Zhang
-- Transactions on Machine Learning Research (TMLR), 2025
+1. **Reheated Gradient-based Discrete Sampling for Combinatorial Optimization**  
+   *Transactions on Machine Learning Research (TMLR), 2025*  
+   **Muheng Li**, Ruqi Zhang  
+   [arXiv:2503.04047](https://arxiv.org/abs/2503.04047)
 
 
 
@@ -54,11 +53,11 @@ My research primarily focuses on the intersection between machine learning theor
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-#  Services
+##  Services
 - Conference Reviewer: UAI(2024)
 
 
-# Teaching
+## Teaching
 - STA255:Statistical Theory(Winter 2025), Tutorial Teaching Assistant.
 
 
